@@ -20,7 +20,7 @@ Tengo experiencia trabajando con varias versiones de Odoo, adaptando soluciones 
   <a href="https://www.linkedin.com/in/carlos-euardo-guaranda-pionce-53b193184" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="30" />
   </a>
-  <a href="mailto:carlos-ceduardo@hotmail.com.com" target="_blank">
+  <a href="mailto:carlos-ceduardo@hotmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" height="30" width="30" />
   </a>
 </p>
